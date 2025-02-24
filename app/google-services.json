@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810001398823",
+    "project_id": "vozactiva-ed602",
+    "storage_bucket": "vozactiva-ed602.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810001398823:android:84bc8ae5d73be8ddf9e202",
+        "android_client_info": {
+          "package_name": "com.example.examenfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKM4F65ZJ0PzN3ht9YJJep14K2jGba40c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
